@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hong-macro.github.io</id>
     <title>hong-macro</title>
-    <updated>2022-01-29T10:46:38.905Z</updated>
+    <updated>2022-01-29T22:50:32.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hong-macro.github.io"/>
     <link rel="self" href="https://hong-macro.github.io/atom.xml"/>
@@ -10,6 +10,239 @@
     <logo>https://hong-macro.github.io/images/avatar.png</logo>
     <icon>https://hong-macro.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, hong-macro</rights>
+    <entry>
+        <title type="html"><![CDATA[markdown基本用法]]></title>
+        <id>https://hong-macro.github.io/post/markdown-ji-ben-yong-fa/</id>
+        <link href="https://hong-macro.github.io/post/markdown-ji-ben-yong-fa/">
+        </link>
+        <updated>2022-01-29T22:27:11.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="一-标题用法">一、标题用法</h1>
+<pre><code>标题用法
+===
+
+# 标题一
+
+h1标题
+===
+
+## 标题二
+
+h2
+---
+
+### 标题三
+###### 标题六
+
+</code></pre>
+<blockquote>
+<p>实战演习</p>
+</blockquote>
+<p>#二、段落用法</p>
+<pre><code>东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西  
+北
+
+中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白  
+中发白
+
+万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条
+万筒条
+</code></pre>
+<pre><code>东南西北  
+中发白  
+万筒条  
+</code></pre>
+<ul>
+<li>引用文的表现方法:</li>
+</ul>
+<blockquote>
+<p>你好</p>
+</blockquote>
+<p>东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西北东南西<br>
+北</p>
+<blockquote>
+<p>中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白<br>
+中发白</p>
+</blockquote>
+<p>万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条万筒条<br>
+万筒条</p>
+<h1 id="增加分割线">增加分割线</h1>
+<p>*为文章增加分割线</p>
+<ul>
+<li>
+<hr>
+</li>
+<li>
+<hr>
+</li>
+<li>
+<hr>
+</li>
+<li>
+<hr>
+</li>
+</ul>
+<ul>
+<li>与h2的区别</li>
+</ul>
+<h2 id="东南西北">东南西北</h2>
+<p>中发白</p>
+<hr>
+<p>万筒条</p>
+<hr>
+<p>你好</p>
+<hr>
+<h1 id="强调表现">强调表现</h1>
+<ul>
+<li>斜体： <em>xxx</em>, <em>xxx</em></li>
+<li>粗体： <strong>xxxx</strong>,<strong>xxx</strong><br>
+<em>xxx</em><br>
+<strong>xxxx</strong></li>
+</ul>
+<p>中发白中发白<em>中发白</em>中发白中发白</p>
+<p>_中发白_中发白</p>
+<p>中发白<strong>中发白</strong>中发白</p>
+<p>中发白__中发白__</p>
+<p>中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白中发白<br>
+中发白</p>
+<h1 id="列表符号">列表符号</h1>
+<ul>
+<li>列表符号 -</li>
+<li>列表符号 *</li>
+<li>列表符号 +</li>
+<li>列表符号 数字</li>
+</ul>
+<pre><code>- 主页
+- 新闻
+  - 体育
+  - 军事
+  - 娱乐
+- 读书
+
+* 读新闻
+* 经典课程
+  * vue入门
+  * vue进阶
+  * node-js教学
+* 经典游戏
+
+1. python
+2. javascript
+3. ruuby on rails
+4. swift/kotlin
+5. java
+</code></pre>
+<h1 id="超文本连接">超文本连接</h1>
+<ul>
+<li>超文本链接的书写</li>
+</ul>
+<pre><code>https://hong-macro.github.ig
+
+&lt;https://hong-macro.github.ig&gt;
+
+[hong-blog](https://hong-macro.github.ig)
+
+[hong-blog](https://hong-macro.github.ig&quot;宏的博客&quot;) 推荐这种
+</code></pre>
+<p>https://hong-macro.github.io</p>
+<p><a href="https://hong-macro.github.io">https://hong-macro.github.io</a></p>
+<p><a href="https://hong-macro.github.ig">hong-blog</a></p>
+<p><a href="https://hong-macro.github.ig%22%E5%AE%8F%E7%9A%84%E5%8D%9A%E5%AE%A2%22">hong-blog</a></p>
+<h1 id="代码高亮显示">代码高亮显示</h1>
+<ul>
+<li>代码高亮显示符号：`</li>
+<li>代码高亮显示符号：~<br>
+##实战演习</li>
+</ul>
+<pre><code>```javascript
+function add(x,y) {
+    return x+y;
+}
+说明：可以使用`add(x,y)`计算两个数的和
+</code></pre>
+<pre><code>function add(x,y) {
+    return x+y;
+}官方用法四个空格
+</code></pre>
+<pre><code class="language-javascript">function add(x,y) {
+    return x+y;
+}
+</code></pre>
+<pre><code class="language-python">function add(x,y) {
+    return x+y;
+}
+</code></pre>
+<pre><code>function add(x,y) {
+    return x+y;
+}
+</code></pre>
+<p>说明：可以使用<code>add(x,y)</code>计算两个数的和</p>
+<h1 id="图片显示">图片显示</h1>
+<ul>
+<li>图片的引用与显示：<img src="" alt="" loading="lazy"></li>
+</ul>
+<p>###说明<br>
+![alt文字](图片url 图片title)</p>
+<p>###实战演习</p>
+<figure data-type="image" tabindex="1"><img src="https://w.wallhaven.cc/full/wq/wallhaven-wqw5l6.jpg" alt="git lessons" title="i love you" loading="lazy"></figure>
+<p>###生成可点击的图片</p>
+<figure data-type="image" tabindex="2"><a href="https://wallhaven.cc/w/wqw5l6"><img src="https://w.wallhaven.cc/full/wq/wallhaven-wqw5l6.jpg" alt="git lessons" title="i love you" loading="lazy"></a></figure>
+<h1 id="表格显示">表格显示</h1>
+<p>###使用<code>-</code>和<code>|</code>来制作表格</p>
+<pre><code>| TH1 | TH2 | TH3 |
+----|----|----
+| TH1 | TH3 | TH5 |
+| TH2 | TH4 | TH6 |
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>TH1</th>
+<th>TH2</th>
+<th>TH3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TH1</td>
+<td>TH3</td>
+<td>TH5</td>
+</tr>
+<tr>
+<td>TH2</td>
+<td>TH4</td>
+<td>TH6</td>
+</tr>
+</tbody>
+</table>
+<p>###使表格对齐</p>
+<pre><code>| 居左 | 居中 | 居右 |
+|:---|:---:|---:|
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+</code></pre>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">居左</th>
+<th style="text-align:center">居中</th>
+<th style="text-align:right">居右</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">1</td>
+<td style="text-align:center">2</td>
+<td style="text-align:right">3</td>
+</tr>
+<tr>
+<td style="text-align:left">4</td>
+<td style="text-align:center">5</td>
+<td style="text-align:right">6</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[new year]]></title>
         <id>https://hong-macro.github.io/post/new-year/</id>
