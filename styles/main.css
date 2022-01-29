@@ -997,6 +997,10 @@ td {
       }
     
       .main {
-        background: #f1f3f5;
+        background: rgba(255,255,255);
+      }
+    
+      body {
+        background: #fff5f5;
       }
     
