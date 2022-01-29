@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hong-macro.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-01-29T06:59:18.320Z</updated>
+    <title>hong-macro</title>
+    <updated>2022-01-29T07:25:37.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hong-macro.github.io"/>
     <link rel="self" href="https://hong-macro.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>千里之行始于足下，不忘初心</subtitle>
     <logo>https://hong-macro.github.io/images/avatar.png</logo>
     <icon>https://hong-macro.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, hong-macro</rights>
     <entry>
         <title type="html"><![CDATA[new year]]></title>
         <id>https://hong-macro.github.io/post/new-year/</id>
@@ -18,6 +18,21 @@
         <updated>2022-01-28T23:47:32.000Z</updated>
         <content type="html"><![CDATA[<p>坚持，不忘初心！<br>
 <img src="https://hong-macro.github.io/post-images/1643413705492.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://hong-macro.github.io/post/about/</id>
+        <link href="https://hong-macro.github.io/post/about/">
+        </link>
+        <updated>1997-10-09T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站static-blog">🏠 关于本站：static blog</h2>
+<h2 id="博主宏">👨‍💻 博主：宏</h2>
+<h2 id="兴趣爱好curiosity-hunting">⛹ 兴趣爱好：Curiosity hunting</h2>
+<h2 id="联系我呀1458604608qqcom">📬 联系我呀：1458604608@qq.com</h2>
 ]]></content>
     </entry>
 </feed>
